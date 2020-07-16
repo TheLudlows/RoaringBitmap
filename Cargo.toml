@@ -1,7 +1,7 @@
 [package]
 name = "Roaring"
 version = "0.1.0"
-authors = ["liuchao56 <liuchao56@jd.com>"]
+authors = ["four <ai-l@outlook.com>"]
 edition = "2018"
 
 [dependencies]
